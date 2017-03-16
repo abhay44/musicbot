@@ -70,7 +70,6 @@ def main():
     print(title)
     result = search_videos(title)
     title_name,video_link = result[0]
-    print(title_name,video_link)
     command_tokens = [
         'youtube-dl',
         '--continue '
