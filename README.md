@@ -1,4 +1,4 @@
-# Fetch and download The Official UK top 40 single charts :guitar:
+# Fetch and download The Official UK top 40 single charts:guitar:
 
 ## Usage
 
